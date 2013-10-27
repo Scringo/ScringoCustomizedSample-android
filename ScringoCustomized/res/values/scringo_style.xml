@@ -2,19 +2,10 @@
 <resources>
 
     <style name="shadowedText">
-        <item name="android:shadowRadius">1</item>
-        <item name="android:shadowDy">2</item>
-        <item name="android:shadowColor">#000000</item>
 	</style>
     <style name="upShadowedText">
-        <item name="android:shadowRadius">1</item>
-        <item name="android:shadowDy">-2</item>
-        <item name="android:shadowColor">#000000</item>
 	</style>
     <style name="shadowedWhiteText">
-        <item name="android:shadowRadius">1</item>
-        <item name="android:shadowDy">2</item>
-        <item name="android:shadowColor">#ffffff</item>
 	</style>
     <style name="boldShadowedText" parent="shadowedText">
         <item name="android:textStyle">bold</item>

@@ -9,11 +9,11 @@
         android:layout_height="40dp"
         android:layout_marginTop="3dp" />
 
-    <ImageView
+    <View
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:scaleType="fitXY"
-        android:src="@drawable/scringo_title_bar_bg" />
+        android:layout_height="50dp"
+        android:background="#4E86C3"
+        />
 
     <RelativeLayout
         android:id="@+id/scringoTitleLeftClose"

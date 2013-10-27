@@ -208,7 +208,7 @@
         android:id="@+id/scringoFollowBar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/scringo_mid_bar"
+        android:background="#4E86C3"
         android:gravity="right|center_vertical"
         android:paddingBottom="0dp"
         android:paddingLeft="0dp"

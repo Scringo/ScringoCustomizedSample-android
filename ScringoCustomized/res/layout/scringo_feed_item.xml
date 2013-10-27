@@ -40,7 +40,7 @@
 
                     <TextView
                         android:id="@+id/scringoFeedItemEventText"
-                        style="@style/lightGrayShadowedText"
+                        style="@style/midDarkGrayShadowedText"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textSize="14dp" />
@@ -81,7 +81,7 @@
 
                     <TextView
                         android:id="@+id/scringoFeedItemPostText"
-                        style="@style/lightGrayShadowedText"
+                        style="@style/midDarkGrayShadowedText"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textSize="14dp" />
@@ -198,7 +198,7 @@
 
                     <TextView
                         android:id="@+id/scringoFeedItemLikeText"
-                        style="@style/lightGrayShadowedText"
+                        style="@style/midDarkGrayShadowedText"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textSize="14dp" />
@@ -338,7 +338,7 @@
 
                                 <TextView
                                     android:id="@+id/scringoFeedItemLikePostPostText"
-                                    style="@style/lightGrayShadowedText"
+                                    style="@style/midDarkGrayShadowedText"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:textSize="14dp" />
