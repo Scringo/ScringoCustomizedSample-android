@@ -1,6 +1,7 @@
 ScringoCustomizedSample-android
 ===============================
 
+Important: This example uses Scringo v2.4.0. For the latest see the ScringoSimpleSample-android Example (https://github.com/Scringo/ScringoSimpleSample-android)
 This sample contains all the libraries it requires, including __Scringo__  
 
 To make it work you need to:  
